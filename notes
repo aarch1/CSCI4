@@ -1,1 +1,18 @@
-
+Find Array
+-Search bar "array"
+-python sets 
+A type of list that is constrained
+Specified at object creation time 
+using type code = single character
+many different ways of using array
+seems like you can add add ons to change how the list looks and what order it is in
+an array has to be the same things in if used as a collection of collections 
+USE ARRAY
+-have to know whlist(collection) is 
+-have to know what a type is 
+we us signed & unsigned numbers 
+Unsigned = positive
+signed = negative number including 0
+unsigned always to be bigger in a signed space
+Float and Double uses decimals
+whenever using floats use tolerances 
